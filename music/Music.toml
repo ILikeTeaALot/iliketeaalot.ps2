@@ -1,0 +1,5 @@
+file = "ps2 ambience uncompressed.wav"
+# Start position time in seconds - only background music is allowed a start time.
+start = 14
+# Music kind. "Static" is just a single plain audio file; "Scripted" is, well, controlled by a script file (Music.rhai + imported *.rhai files.)
+kind = "Static"

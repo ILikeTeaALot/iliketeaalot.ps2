@@ -1,0 +1,7 @@
+[theme]
+name = "PlayStation™ 2"
+identifier = "iliketeaalot.ps2"
+version = "1.0.0"
+description = "The sounds you know and love from the Sony PlayStation™ 2"
+authors = ["ILikeTeaALot"]
+features = ["Music", "Sound"]

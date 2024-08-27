@@ -1,0 +1,4 @@
+[sounds.background]
+file = "ps2 ambience uncompressed.wav"
+# Start position time in seconds - only background music is allowed a start time.
+start = 11
